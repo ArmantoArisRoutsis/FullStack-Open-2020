@@ -5,11 +5,11 @@
 
 ###### Other topics include debugging applications, configuration, managing runtime environments and NoSQL databases.
 
-What you will learn
-*######  React
-*###### Redux
-*###### Node.js
-*###### MongoDB
-*###### GraphQL
-*###### Typescript
-*###### React Native
+### What you will learn
+* ######  React
+* ###### Redux
+* ###### Node.js
+* ###### MongoDB
+* ###### GraphQL
+* ###### Typescript
+* ###### React Native
