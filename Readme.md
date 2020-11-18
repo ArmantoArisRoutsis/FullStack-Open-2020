@@ -13,3 +13,6 @@
 * ###### GraphQL
 * ###### Typescript
 * ###### React Native
+
+### Parts
+* ##### Part 0 - [Solutions to Part 0 Exercises](https://github.com/ArmantoArisRoutsis/FullStack-Open-2020/tree/main/part0)
