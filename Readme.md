@@ -10,7 +10,8 @@
 ###### Other topics include debugging applications, configuration, managing runtime environments and NoSQL databases.
 
 ### What you will learn
-* ######  React
+* ###### Vanilla Javascript
+* ###### React
 * ###### Redux
 * ###### Node.js
 * ###### MongoDB
