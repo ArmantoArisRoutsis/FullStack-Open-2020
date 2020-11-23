@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/FULLSTACKOPEN.png" />
+  <img src="Assets/FULLSTACKOPEN-LOGO.png" />
 </p>
 
 # FULLSTACK OPEN 2020
