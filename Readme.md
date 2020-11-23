@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://filebin.net/0piq5pqogxt5ft2q/FULLSTACKOPEN.png?t=0ufdppyr" />
+</p>
+
 # FULLSTACK OPEN 2020
 ## University Of Helsinki
 
