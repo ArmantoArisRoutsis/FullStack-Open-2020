@@ -10,7 +10,7 @@
 
 ###### Other topics include debugging applications, configuration, managing runtime environments and NoSQL databases.
 
-### What you will learn
+### This is a course that puts weight and focus on the following technologies:
 * ###### Vanilla Javascript
 * ###### React
 * ###### Redux
